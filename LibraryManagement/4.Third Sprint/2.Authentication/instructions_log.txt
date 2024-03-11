@@ -1,0 +1,13 @@
+#Step1: Added the app named 'API' to the settings.py file.
+#Step2: Added the path (/api) to the first route in project level urls.py file.
+#step3: Installed Django Rest FrameWork for setting up Rest API.
+#Step4: Added 'rest_framework', in settings.py file and run migrations.
+#step: implementing authentication layer.
+#step5: added 'rest_framework.authtoken', in settings.py file.
+#Step6: added necessary imports in views.py file
+#step7: added 'rest_framework.authentication.TokenAuthentication' in settings.py file.
+==> Apply migrations.
+#step8: added necessary imports and urls to obtain token.
+#step9: created a super user username and password for the django pannel.
+#step10: created a manager group and added super user in manager group.
+#step11: installing djoser for integrating few features like user registration, pasword reset etc.
