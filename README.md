@@ -1,1 +1,1 @@
-# CSC455-Customer Reward System
+# CSC455 - Customer Reward System
